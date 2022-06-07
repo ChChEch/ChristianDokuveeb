@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a}from"./app.d83e8d2e.js";const m='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"cvi/moodboard.md","lastUpdated":1654079625000}',o={};function r(c,s,d,n,p,_){return a(),e("div")}var f=t(o,[["render",r]]);export{m as __pageData,f as default};
