@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a}from"./app.142c652c.js";const m='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"cvi/mockups.md","lastUpdated":1654079621000}',o={};function r(c,s,n,p,_,d){return a(),e("div")}var f=t(o,[["render",r]]);export{m as __pageData,f as default};
